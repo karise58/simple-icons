@@ -19486,5 +19486,10 @@
 		"title": "Zyte",
 		"hex": "B02CCE",
 		"source": "https://www.zyte.com"
+	},
+	{
+		"title": "DLsite",
+		"hex": "082A83",
+		"source": "https://www.dlsite.com/index.html"
 	}
 ]
